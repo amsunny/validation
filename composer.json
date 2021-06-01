@@ -1,0 +1,8 @@
+{
+  "name": "reign/validation",
+  "autoload": {
+    "psr-4": {
+      "Reign\\Validation\\": "src"
+    }
+  }
+}
